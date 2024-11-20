@@ -13,14 +13,14 @@ while True:
 if bot_input == "Lion":
     if user_input == "Lion":
         print("Your Win!!!")
-        print(bot_input)
+        print(bot_input," is correct")
     else:
         print("Your Lost!!!")
-        print(bot_input)
+        print(bot_input," is correct!!")
 else:
     if user_input == "Line":
         print("Your Win!!!")
-        print(bot_input)
+        print(bot_input," is correct")
     else:
         print("Your Lost!!!")
-        print(bot_input)
+        print(bot_input," is correct!!")
